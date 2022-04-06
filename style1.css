@@ -1,0 +1,315 @@
+#Titre-Destiny2
+{
+    font-size: 4em;
+    font-family:'Times New Roman';
+    text-decoration: underline;
+    color: rgb(180, 180, 180);
+    text-align: center;
+    text-shadow: 6px 6px 6px rgb(0, 0, 0);
+    margin-top: 8em;
+    
+}
+.DLC
+{
+    font-size: 5em;
+    background-color: RGBa(20, 124, 81, 0.4);
+    text-decoration: underline;
+    border: 1px solid rgb(8, 143, 120);
+    color: rgb(180, 180, 180);
+    text-align: center;
+    margin-top: -20px;
+    margin-bottom: 100px;
+    
+}
+header
+#background-video {
+    height: 100vh;
+    width: 100vw;
+    object-fit: cover;
+    position: fixed;
+    left: 0;
+    right: 0;
+    top: 0;
+    bottom: 0;
+    z-index: -1;
+    }
+
+    
+a:hover
+{
+    color: rgb(1, 172, 115);
+}
+
+a:visited
+{
+    color: rgb(18, 43, 11);
+}
+
+.text1
+{
+    width: 700px;
+    height: 200px;
+    text-align: center;
+    font-size: 2em;
+    border:0px solid rgb(1, 37, 1);
+    overflow: auto;
+    margin-left: 30%;
+    margin-right: 30%;
+    color: aliceblue;
+}
+#campagne
+{
+    font-family:'Times New Roman';
+    text-align: center;
+    font-size: 2em;
+    font-weight: 400;
+    color: #ffffff;
+ }
+
+
+#lumier{
+    font-size: 5em;
+    margin-top: -10px;
+    text-align: center;
+    color: aliceblue;
+}
+.couleurla
+{
+    color: rgb(15, 148, 55);
+}
+
+.fig1{
+    font-size: 1.5em;
+    color: rgb(185, 185, 185);
+    margin-left: 11em;
+    margin-top: 10px;
+}
+
+
+  .image-fig1{
+      width: 25em;
+      height: 22em;
+      float: left;
+      margin-left: 6em;
+      border: 1px solid rgb(5, 80, 61);
+  }
+  
+
+
+
+
+
+  .fig2{
+    font-size: 1.5em;
+    color: rgb(185, 185, 185);
+    text-align: center;
+    margin-top: -50px;
+}
+
+
+  .image-fig2{
+      width: 25em;
+      height: 22em;
+      float: left;
+      margin-left: 16em;
+      border: 1px solid rgb(5, 80, 61);
+  }
+
+
+
+
+
+
+
+
+
+  .fig3{
+    font-size: 1.5em;
+    color: rgb(185, 185, 185);
+    text-align: right;
+    margin-right: 10em;
+    margin-top: -2em;
+    
+}
+
+
+  .image-fig3{
+      width: 25em;
+      height: 22em;
+      float: right;
+      margin-right: 6em;
+      border: 1px solid rgb(5, 80, 61);
+  }
+
+ .texteapresimagefig1{
+     font-size: 30px;
+     color: #ffffff;
+     margin-top: 11em;
+     margin-left: 5%;
+     margin-right: 74%;
+     text-align: left;
+ }
+  
+
+ .texteapresimagefig2{
+    font-size: 30px;
+    color: #ffffff;
+    text-align: left;
+    margin-top: -9em;
+    margin-left: 40%;
+    margin-right: 38%;  
+}
+
+.texteapresimagefig3{
+    font-size: 30px;
+    color: #ffffff;
+    text-align: left;
+    margin-top: -9em;
+    margin-left: 74%;
+    margin-right: 5%;  
+}
+
+.contenant {
+    position: relative;
+    text-align: center;
+    color: rgb(255, 255, 255);
+  }
+  
+  .texte_centrer1 {
+    font-size: 1.5em;
+    position: absolute;
+    top: 5%;
+    left: 22%;
+    transform: translate(-50%, -50%);
+  }
+  .texte_centrer2 {
+    font-size: 4em;
+  position: absolute;
+  top: 8%;
+  left: 22%;
+  transform: translate(-50%, -50%);
+}
+.texte_centrer3 {
+    font-size: 3em;
+  position: absolute;
+  top: 20%;
+  left: 80%;
+  right: -5%;
+  transform: translate(-50%, -50%);
+}
+.S-id{
+    
+    font-size: 2.2em;
+}
+.lareine1{
+    margin-top: 5em;
+    width: 100%;
+}
+
+.image-fig4{
+    width: 25em;
+    height: 22em;
+    float: left;
+    margin-left: 6em;
+    margin-top: -22em;
+    border: 1px solid rgb(5, 80, 61);
+}
+
+.image-fig5{
+    width: 25em;
+    height: 22em;
+    float: left;
+    margin-left: 16em;
+    margin-top: -22em;
+    border: 1px solid rgb(5, 80, 61);
+}
+
+.image-fig6{
+    width: 25em;
+    height: 22em;
+    float: right;
+    margin-right: 6em;
+    margin-top: -22em;
+    border: 1px solid rgb(5, 80, 61);
+}
+.texteapresimagefig4{
+    font-size: 30px;
+    color: #ffffff;
+    margin-top: -1em;
+    margin-left: 5%;
+    margin-right: 74%;
+    text-align: left;
+}
+
+.findesite {
+    position: relative;
+    text-align: center;
+    color: rgb(255, 255, 255);
+  }
+.photodefin{
+    margin-top: 5em;
+    width: 100%;
+}
+
+.media1 {
+    font-size: 4em;
+    position: absolute;
+    top: 15%;
+    left: 10%;
+    transform: translate(-50%, -50%);
+  }
+
+  .mediaphoto1 {
+    width: 16em;
+    height: 10em;
+    float: left;
+    margin-left: 4em;
+    margin-top: -65em;
+    border: 1px solid rgb(5, 80, 61);
+  }
+  .mediaphoto2 {
+    width: 16em;
+    height: 10em;
+    float: left;
+    margin-left: 21.5em;
+    margin-top: -65em;
+    border: 1px solid rgb(5, 80, 61);
+  }
+
+  .mediaphoto3 {
+    width: 16em;
+    height: 10em;
+    float: left;
+    margin-left: 39em;
+    margin-top: -65em;
+    border: 1px solid rgb(5, 80, 61);
+  }
+
+  .mediaphoto4 {
+    width: 16em;
+    height: 10em;
+    float: left;
+    margin-left: 56.4em;
+    margin-top: -65em;
+    border: 1px solid rgb(5, 80, 61);
+  }
+
+  .mediaphoto5 {
+    width: 16em;
+    height: 10em;
+    float: left;
+    margin-left: 73.7em;
+    margin-top: -65em;
+    border: 1px solid rgb(5, 80, 61);
+  }
+
+  .mediaphoto6 {
+    width: 16em;
+    height: 10em;
+    float: left;
+    margin-left: 91.3em;
+    margin-top: -65em;
+    border: 1px solid rgb(5, 80, 61);
+  }
+
+  
